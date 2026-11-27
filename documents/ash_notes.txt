@@ -18,6 +18,7 @@ consider:
 
 planning: 
         phase 1: foundation. base template. database. the annoying stuff
+                
         phase 2: authorizations, logins/ roles, etc
         phase 3: profiles for job seekers .. 
         phase 4: employer profiles
