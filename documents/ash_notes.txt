@@ -1,0 +1,14 @@
+processing: 
+
+two types of users: 
+        - seeker
+        - employer
+
+
+design style: 
+    - intuitive
+    - should NOT be intimidating to first time employees. 
+    - something inbetween indeed/monkeytype
+    "The design must be clean, modern, professional, and consistent with the FirstGigs brand."
+
+    
