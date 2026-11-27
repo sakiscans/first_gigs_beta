@@ -11,4 +11,18 @@ design style:
     - something inbetween indeed/monkeytype
     "The design must be clean, modern, professional, and consistent with the FirstGigs brand."
 
-    
+consider: 
+        users are minors. get the law straightened out. currently, just focus on califoria /mb area??
+        updates can address other areas. 
+
+
+planning: 
+        phase 1: foundation. base template. database. the annoying stuff
+        phase 2: authorizations, logins/ roles, etc
+        phase 3: profiles for job seekers .. 
+        phase 4: employer profiles
+        phase 5: job search/board
+        phase 6: apply.. applicatoin dashboard/status updates
+        phase 7: notifications
+        phase 8: reporting/admin/moderation
+        phase 9: making it look good. 
