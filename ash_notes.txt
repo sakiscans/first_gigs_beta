@@ -1,0 +1,6 @@
+processing: 
+
+two types of users: 
+        - seeker
+        - employer
+
